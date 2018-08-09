@@ -1,0 +1,1 @@
+# sample android project to test the build process using circle ci & push directly to hockey app
